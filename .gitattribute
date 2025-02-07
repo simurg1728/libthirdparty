@@ -1,0 +1,5 @@
+*.bin binary
+*.exe binary
+*.def binary
+*.lib binary
+*.f03 binary
